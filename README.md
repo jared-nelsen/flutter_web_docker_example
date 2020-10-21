@@ -8,5 +8,5 @@ See my blog article [here]() for a tutorial!
 
 Build: `docker build . -t flutter_web_docker_example`
 
-Run: 'docker run -i -p 808:4040 -td flutter_web_docker_example'
+Run: `docker run -i -p 808:4040 -td flutter_web_docker_example`
 
