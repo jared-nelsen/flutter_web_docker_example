@@ -2,7 +2,7 @@
 
 An example project to show how a Flutter web app can be served from a Docker Container.
 
-See my blog article [here]() for a tutorial!
+See my blog article [here](https://www.jarednelsen.dev/blog/serve-a-flutter-web-app-from-docker/) for a tutorial!
 
 ## Commands
 
